@@ -1,0 +1,59 @@
+# Java and Maven related files
+*.class
+*.log
+*.iml
+*.ipr
+*.iws
+*.swp
+
+# Compiled classes and output directories
+/target/
+/out/
+
+# IDE files (e.g., IntelliJ IDEA, Eclipse, NetBeans, etc.)
+.idea/
+/.idea/
+*.prefs
+.classpath
+.project
+.settings/
+/.settings/
+
+# macOS files
+.DS_Store
+
+# Maven Wrapper files
+/.mvn/wrapper/maven-wrapper.jar
+/.mvn/wrapper/maven-wrapper.properties
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Temporary files
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+*.rej
+*.sage.py
+
+# Other files and directories that should not be tracked
+*.lock
+*.diff
+*.patch
+*.reject
+*.orig
+*.dist
+
+# Logs and databases
+*.lck
+*.db
+*.sql
+*.sqlite
+*.h2.db
+*.mv.db
+
+# Test coverage and reports
+/coverage/
+*.lcov
+*.clover
