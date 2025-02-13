@@ -1,5 +1,8 @@
 ![](readme.assets/1604286335335-48f389f8-7cae-4afc-8e12-e17f01ee2fc0.png)
 
+# 新的技术累计地址
+[Blakedd的新技术家园](https://blakeya513.notion.site/195e01c404d380159a17fc2a1cb678e9?v=195e01c404d3803b9ae0000c73eebf46)
+
 [每日进步一点点.pdf](https://www.yuque.com/attachments/yuque/0/2021/pdf/22883638/1638361353703-2000834e-ef85-41c2-9ed2-e84b429dbe76.pdf?_lake_card=%7B%22src%22%3A%22https%3A%2F%2Fwww.yuque.com%2Fattachments%2Fyuque%2F0%2F2021%2Fpdf%2F22883638%2F1638361353703-2000834e-ef85-41c2-9ed2-e84b429dbe76.pdf%22%2C%22name%22%3A%22%E6%AF%8F%E6%97%A5%E8%BF%9B%E6%AD%A5%E4%B8%80%E7%82%B9%E7%82%B9.pdf%22%2C%22size%22%3A2176313%2C%22ext%22%3A%22pdf%22%2C%22source%22%3A%22%22%2C%22status%22%3A%22done%22%2C%22download%22%3Atrue%2C%22type%22%3A%22application%2Fpdf%22%2C%22taskId%22%3A%22u52fc276c-93af-4b1c-b131-134f9ec5132%22%2C%22taskType%22%3A%22upload%22%2C%22mode%22%3A%22title%22%2C%22id%22%3A%22u2f008fe7%22%2C%22card%22%3A%22file%22%7D)
 
 # 基础
