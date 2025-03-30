@@ -1,5 +1,5 @@
-# [BlakeYa的新技术家园](https://blakeya513.notion.site/195e01c404d380159a17fc2a1cb678e9?v=195e01c404d3803b9ae0000c73eebf46)
-
+# 🔥 [BlakeYa的新技术家园](https://blakeya513.notion.site/195e01c404d380159a17fc2a1cb678e9?v=195e01c404d3803b9ae0000c73eebf46)
+**💦 可以访问我的新博客地址, 干货技术满满,都是鄙人日常积累!**
 
 
 ![](readme.assets/1604286335335-48f389f8-7cae-4afc-8e12-e17f01ee2fc0.png)
